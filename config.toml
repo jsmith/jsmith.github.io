@@ -1,0 +1,32 @@
+# Site settings
+baseurl = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Portfolio"
+theme = "hugrid"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+    # Meta
+    title = "Test"
+    subtitle = "This is a hugo site test using a very nice theme!"
+    author = "Jacob Smith"
+    description = "Information, projects & links!"
+    keywords = "Jacob, Smith, Jacob Smith, UNB, Fredericton, portfolio, GitHub, resume, projects, about"
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "View the source"
+
+    # Footer text
+    footertext = "[GitHub](http://github.com/jacsmith21) [LinkedIn](http://linkedin.com)"
+
+    # add extra-css
+    # custom_css = ['css/extra1.css', 'css/extra2.css']
