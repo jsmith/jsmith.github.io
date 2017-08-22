@@ -9,7 +9,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
-publishdir = "docs"
+publishdir = "public"
 
 [params]
     # Meta
@@ -26,8 +26,7 @@ publishdir = "docs"
     buttontext = "View the source"
 
     # Footer text
-    footertext = '<a href="https://github.com/jacsmith21"><i class="fa fa-github fa-2x"></i></a><a href="https://linkedin.com"><i class="fa fa-linkedin fa-2x"></i></a>
-    <a href="https://twitter.com"><i class="fa fa-twitter fa-2x"></i></a>'
+    footertext = '<a href="https://github.com/jacsmith21" target="_blank"><i class="fa fa-github fa-2x"></i></a><a href="https://linkedin.com" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a><a href="https://twitter.com" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>'
 
     # add extra-css
     custom_css = ['https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css', '/css/main.css']
