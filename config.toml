@@ -26,7 +26,8 @@ publishdir = "public"
     buttontext = "View the source"
 
     # Footer text
-    footertext = "[GitHub](http://github.com/jacsmith21) [LinkedIn](http://linkedin.com)"
+    footertext = '<a href="https://github.com/jacsmith21"><i class="fa fa-github fa-2x"></i></a><a href="https://linkedin.com"><i class="fa fa-linkedin fa-2x"></i></a>
+    <a href="https://twitter.com"><i class="fa fa-twitter fa-2x"></i></a>'
 
     # add extra-css
-    # custom_css = ['css/extra1.css', 'css/extra2.css']
+    custom_css = ['https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css', '/css/main.css']
