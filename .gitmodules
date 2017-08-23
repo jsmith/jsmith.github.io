@@ -1,7 +1,0 @@
-[submodule "themes/hugrid"]
-	path = themes/hugrid
-	url = https://github.com/jacsmith21/hugrid.git
-
-[submodule "public"]
-	path = "public"
-	url = "https://github.com/jacsmith21/jacsmith21.github.io.git"
