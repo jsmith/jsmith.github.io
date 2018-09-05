@@ -1,17 +1,7 @@
 module.exports = {
-  dest: 'vuepress',
+  dest: 'docs',
   serviceWorker: true,
-  themeConfig: {
-    sidebar: [
-      '/',
-      '/page1',
-      '/page2',
-      [
-        '/page3',
-        'Custom link page'
-      ]
-    ]
-  },
   title: 'Jacob Smith',
-  base: '/'
+  base: '/',
+  ga: 'UA-118568474-1'
 }
